@@ -1,0 +1,23 @@
+{
+  "name": "sameer-general-cli",
+  "version": "1.0.0",
+  "description": "exploring and learning to build interactive cli tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "genie": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdsameershaikh/sameer-general-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdsameershaikh/sameer-general-cli/issues"
+  },
+  "homepage": "https://github.com/mdsameershaikh/sameer-general-cli#readme"
+}
